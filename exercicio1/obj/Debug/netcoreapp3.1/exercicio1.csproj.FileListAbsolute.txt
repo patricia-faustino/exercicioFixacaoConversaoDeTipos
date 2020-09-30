@@ -1,0 +1,13 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csprojAssemblyReference.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.genruntimeconfig.cache
